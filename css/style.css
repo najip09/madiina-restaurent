@@ -14,7 +14,7 @@ body{
  #hero{
     position: relative;
     width: 100vw;
-    height: 91.2vh;
+    height: 92.8vh;
     width: 100vw;
     display: flex;
     justify-content: center;
@@ -170,7 +170,7 @@ body{
 
  /* about section   */
   #about {
-    height: 91.2vh;
+    height: 92.7vh;
     width: 100vw;
     padding: 25px 0 25 0;
  }
@@ -200,7 +200,7 @@ font-family: cursive;
   
 /* section contect */
  #contact {
-    height: 73.1vh;
+    height: 77.8vh;
     width: 100vw;
     padding: 25px 0 25px 0;
  }
